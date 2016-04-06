@@ -1,6 +1,6 @@
 {
   "name": "todomvc",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "private": true,
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start"
@@ -8,6 +8,7 @@
   "dependencies": {
     "iflux-native": "^1.0.6",
     "immutable": "^3.7.6",
+    "react-mixin": "^3.0.4",
     "react-native": "^0.21.0"
   }
 }
